@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Dipak Salunke</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<img align="right" alt="Coding" width="300" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
-
 - 🌱 I’m currently learning **DSA, System Design, Reactive Programming**
 
 - 💬 Ask me about **Java, Kotlin, Spring Boot**
