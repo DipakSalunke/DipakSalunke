@@ -1,6 +1,5 @@
-### Hi there 👋
+<!--[![MasterHead](https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif)](https://github.com/DipakSalunke)
 
-<!--
 **DipakSalunke/DipakSalunke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">I'm Dipak Salunke</h1>
+<h1 align="center">Hi there 👋, I'm Dipak Salunke</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-
+<img align="right" alt="Coding" width="350" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 - 🌱 I’m currently learning **DSA, System Design, Reactive Programming**
 
 - 💬 Ask me about **Java, Kotlin, Spring Boot**
